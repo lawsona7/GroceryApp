@@ -1,0 +1,73 @@
+﻿@model GroceryApp.Models.Grocery
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Grocery</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PurchaseDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PurchaseDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SellBy)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SellBy)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Done)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Done)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Repeat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Repeat)
+        </dd>
+
+        <dt>
+            Expires in
+        </dt>
+
+        <dd>
+            @Model.DaysToExpiration()
+        </dd>
+        <dt>
+            Status
+        </dt>
+
+        <dd>
+            @Model.Status()
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,164 @@
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\ApplicationInsights.config
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\roslyn\csc.exe
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\roslyn\vbc.exe
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\GroceryApp.dll.config
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\GroceryApp.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\GroceryApp.pdb
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Antlr3.Runtime.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\EntityFramework.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.AI.Web.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Newtonsoft.Json.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Owin.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\System.Web.Helpers.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\System.Web.Mvc.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\System.Web.Optimization.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\System.Web.Razor.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\System.Web.WebPages.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\WebGrease.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.AI.Web.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\System.Web.Helpers.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\System.Web.Mvc.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\System.Web.Optimization.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\System.Web.Razor.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\System.Web.WebPages.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Antlr3.Runtime.pdb
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Newtonsoft.Json.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\EntityFramework.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.csprojResolveAssemblyReference.cache
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.dll
+C:\Users\Law\Documents\Visual Studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.pdb
+D:\GitHub\GroceryApp\GroceryApp\bin\ApplicationInsights.config
+D:\GitHub\GroceryApp\GroceryApp\bin\roslyn\csc.exe
+D:\GitHub\GroceryApp\GroceryApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitHub\GroceryApp\GroceryApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitHub\GroceryApp\GroceryApp\bin\roslyn\System.Collections.Immutable.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\roslyn\vbc.exe
+D:\GitHub\GroceryApp\GroceryApp\bin\roslyn\VBCSCompiler.exe
+D:\GitHub\GroceryApp\GroceryApp\bin\roslyn\VBCSCompiler.exe.config
+D:\GitHub\GroceryApp\GroceryApp\bin\GroceryApp.dll.config
+D:\GitHub\GroceryApp\GroceryApp\bin\GroceryApp.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\GroceryApp.pdb
+D:\GitHub\GroceryApp\GroceryApp\bin\Antlr3.Runtime.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\EntityFramework.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\EntityFramework.SqlServer.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.AI.Web.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.AI.WindowsServer.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.ApplicationInsights.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.Google.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Newtonsoft.Json.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Owin.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\System.Web.Helpers.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\System.Web.Mvc.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\System.Web.Optimization.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\System.Web.Razor.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\System.Web.WebPages.Deployment.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\System.Web.WebPages.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\System.Web.WebPages.Razor.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\WebGrease.dll
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.AI.Web.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.AI.WindowsServer.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.ApplicationInsights.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\System.Web.Helpers.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\System.Web.Mvc.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\System.Web.Optimization.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\System.Web.Razor.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\System.Web.WebPages.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\System.Web.WebPages.Deployment.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\System.Web.WebPages.Razor.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Antlr3.Runtime.pdb
+D:\GitHub\GroceryApp\GroceryApp\bin\Newtonsoft.Json.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\EntityFramework.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\EntityFramework.SqlServer.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.Google.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GitHub\GroceryApp\GroceryApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GitHub\GroceryApp\GroceryApp\obj\Debug\GroceryApp.csprojResolveAssemblyReference.cache
+D:\GitHub\GroceryApp\GroceryApp\obj\Debug\GroceryApp.dll
+D:\GitHub\GroceryApp\GroceryApp\obj\Debug\GroceryApp.pdb
