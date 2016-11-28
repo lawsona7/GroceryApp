@@ -46,7 +46,7 @@ namespace GroceryApp.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,Name,PurchaseDate,SellBy,Done,Repeat")] Grocery grocery)
+        public ActionResult Create([Bind(Include = "Id,ProductName,PurchaseDate,SellBy,Done,Repeating,StoreName,Address")] Grocery grocery)
         {
             if (ModelState.IsValid)
             {
@@ -78,7 +78,7 @@ namespace GroceryApp.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "Id,Name,PurchaseDate,SellBy,Done,Repeat")] Grocery grocery)
+        public ActionResult Edit([Bind(Include = "Id,ProductName,PurchaseDate,SellBy,Done,Repeating,StoreName,Address")] Grocery grocery)
         {
             if (ModelState.IsValid)
             {

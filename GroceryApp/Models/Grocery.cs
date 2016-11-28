@@ -10,13 +10,24 @@ namespace GroceryApp.Models
     {
         public int Id { get; set; }
         [Required]
-        public string Name { get; set; }
+        public string ProductName { get; set; }
         [Required]
         public DateTime PurchaseDate { get; set; }
         [Required]
         public DateTime SellBy { get; set; }
-        
-        public string Status()
+
+        [Required]
+        public string Done { get; set; }
+
+        [Required]
+        public string Repeating { get; set; }
+
+        [Required]
+        public string StoreName { get; set; }
+
+        public string Address { get; set; }
+
+        public string ProductStatus()
         {
             string used = Done;
             double expired = (SellBy - DateTime.Now).TotalDays;
@@ -33,14 +44,7 @@ namespace GroceryApp.Models
                 return "Good";
             }
         }
-        
-        [Required]
-        public string Done { get; set; }
 
-        [Required]
-        public string Repeat { get; set; }
-        
-        
         public object DaysToExpiration()
         {
             DateTime today = DateTime.Now;
